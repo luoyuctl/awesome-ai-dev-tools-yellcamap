@@ -139,6 +139,7 @@ AI-enhanced terminal and command-line tools.
 
 | Tool | Description | Type | Stars |
 |------|-------------|------|-------|
+| [agenttrace](https://github.com/luoyuctl/agenttrace) | Local-first TUI for AI coding agent session cost, tokens, time, and slow-run diagnostics | CLI | 32 |
 | [Warp](https://www.warp.dev/) | AI-powered terminal with built-in AI command search | Terminal | — |
 | [Fig](https://fig.io/) | AI terminal autocomplete (now part of AWS) | Extension | — |
 | [atuin](https://github.com/atuinsh/atuin) | Magical shell history with AI search | CLI | 21K+ |
